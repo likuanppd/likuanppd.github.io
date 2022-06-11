@@ -7,7 +7,7 @@ date: 2018-12-01
 venue: "WWW"
 year: 2019
 paperurl: "https://arxiv.org/abs/1802.04162"
-authorlist: "Feiyang Pan, Qingpeng Cai, Pingzhong Tang, Fuzhen Zhuang, Qing He"
+authorlist: "Feiyang1 Pan, Qingpeng Cai, Pingzhong Tang, Fuzhen Zhuang, Qing He"
 citation: "Feiyang Pan, Qingpeng Cai, Pingzhong Tang, Fuzhen Zhuang, Qing He. 2019. Policy Gradients for Contextual Recommendations. In Proceedings of the 2019 World Wide Web Conference (WWW'19), May 13-17, 2019, San Francisco, CA, USA. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3308558.3313616"
 status: 'pub'
 ---
