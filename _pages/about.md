@@ -25,7 +25,7 @@ Wechat: Kuan_ppd
 
 ## Research interests
 
-My interests lies in machine learning on graphs. Now I am working on Graph Adversarial Attack, dynamic graph modeling, and imbalanced node classification.
+My interest lies in machine learning on graphs. Now I am working on Graph Adversarial Attack, dynamic graph modeling, and imbalanced node classification.
 
 ## Publications
 
