@@ -55,6 +55,8 @@
         In <b><i>{{post.venue}}</i></b> {{post.year}}.
       {% elsif post.status == 'acc' %}
         To appear in <b><i>{{post.venue}}</i></b> {{post.year}}.
+      {% elsif post.status == 'sub' %}
+        Under review.
       {% else %}
         <i>Work in progress.</i>
       {% endif %}
