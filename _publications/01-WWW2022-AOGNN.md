@@ -2,7 +2,7 @@
 title: "AUC-oriented Graph Neural Network for Fraud Detection"
 collection: publications
 permalink: /publications/AOGNN
-excerpt: "Policy Optimization with Model-based Explorations"
+excerpt: "AUC maximization process on GNN into a classifier parameter searching and an edge pruning policy searching"
 date: 2022-04-25
 venue: "WWW"
 year: 2022
