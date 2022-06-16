@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/halop
 excerpt: "Revisit graph adversarial attack from a data distribution perspective"
 date: 
-venue: "NeurIPS"
+venue: ""
 year: 2022
 authorlist: "Kuan Li, Yang Liu, Qing He, Xiang Ao"
 status: 'sub'
