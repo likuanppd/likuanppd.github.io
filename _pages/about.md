@@ -27,6 +27,7 @@ Wechat: Kuan_ppd
 
 My interest lies in machine learning on graphs. Now I am working on Graph Adversarial Attack, dynamic graph modeling, and imbalanced node classification.
 
+*Aggregate the knowledge and distill it into intelligence.*
 ## Publications
 
 <ul>{% for post in site.publications reversed %}
