@@ -1,7 +1,7 @@
 ---
 title: "Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN"
 collection: publications
-permalink: /publications/halop
+permalink: /publications/STABLE
 excerpt: "An unsupervised structure learning pipeline via robustness-oriented contrastive learning"
 date: 2022-05-19
 venue: "KDD"
