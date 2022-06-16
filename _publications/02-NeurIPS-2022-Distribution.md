@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Graph Adversarial Attack and Defense From a Data Distribution Perspective"
 collection: publications
-permalink: /publications/halop
+permalink: /publications/Distribution
 excerpt: "Rethinking Graph Adversarial Attack and Defense From a Data Distribution Perspective"
 date: 2022-09-14
 venue: "NeurIPS"
