@@ -1,8 +1,8 @@
 ---
-title: "Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN"
+title: "Rethinking Graph Adversarial Attack and Defense From a Data Distribution Perspective"
 collection: publications
 permalink: /publications/halop
-excerpt: "Rethinking Graph Adversarial Attack and Defense From a Data Distribution Perspective"
+excerpt: "Revisit graph adversarial attack from a data distribution perspective"
 date: 
 venue: "NeurIPS"
 year: 2022
