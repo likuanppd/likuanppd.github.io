@@ -14,7 +14,7 @@ redirect_from:
 
 ## About Me
 
-I am a second-year Master student of Computer Science at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by Dr. [Xiang ao](https://aoxaustin.github.io/index.html). I completed my B.E. degree in Electrical engineering and Automation at Beihang University.
+I am a second-year Master candidate at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by Dr. [Xiang ao](https://aoxaustin.github.io/index.html). I completed my B.E. degree in Electrical engineering and Automation at Beihang University.
 
 **<font color="#dd0000">I am looking for Ph.D. positions in 2023 Fall. If you have available positions or are interested in me, please contact me. I am always ready to have a chat.</font><br />**
 
