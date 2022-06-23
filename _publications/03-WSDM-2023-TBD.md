@@ -1,5 +1,5 @@
 ---
-title: "Let Clean nodes Instruct Your Defense Under Graph Structural Attack"
+title: "Let Clean Nodes Instruct Your Defense Under Graph Structural Attack"
 collection: publications
 permalink: /publications/TBD
 excerpt: "Let Clean nodes Instruct Your Defense Under Graph Structural Attack"
