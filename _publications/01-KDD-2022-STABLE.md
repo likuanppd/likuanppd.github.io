@@ -6,8 +6,10 @@ excerpt: "An unsupervised structure learning pipeline via robustness-oriented co
 date: 2022-05-19
 venue: "KDD"
 year: 2022
+paperurl: "https://arxiv.org/abs/2207.00012"
+code: "https://github.com/likuanppd/STABLE"
 authorlist: "Kuan Li, Yang Liu, Xiang Ao, Jianfeng Chi, Jinghua Feng, Hao Yang, Qing He"
-status: 'acc'
+status: 'pub'
 ---
 **Abstract:**
 
