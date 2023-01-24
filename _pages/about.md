@@ -14,7 +14,7 @@ redirect_from:
 
 ## About Me
 
-I am a second-year Master candidate at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by Prof. [Xiang Ao](https://aoxaustin.github.io/index.html). I completed my B.E. degree in Electrical engineering and Automation at Beihang University.
+I am a second-year Master candidate at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by Prof. **<font color="#dd0000">[Xiang Ao](https://aoxaustin.github.io/index.html)</font><br />**. I completed my B.E. degree in Electrical engineering and Automation at Beihang University.
 
 ### Contact information
 Email: likuan20s@ict.ac.cn
