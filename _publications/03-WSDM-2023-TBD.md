@@ -1,10 +1,10 @@
----
-title: "Let Clean Nodes Instruct Your Defense Under Graph Structural Attack"
+<!-- ---
+title: "Why does not the trade-off between accuracy and adversarial robustness exist in graph models?"
 collection: publications
 permalink: /publications/TBD
-excerpt: "Let Clean nodes Instruct Your Defense Under Graph Structural Attack"
+excerpt: "Adversarial Robustness and Accuracy are Consistent in Graph Models"
 date: 2023-10-21
-venue: "WSDM"
+venue: "ICML"
 year: 2023
 authorlist: "Kuan Li"
 status: 'todo'
@@ -12,3 +12,4 @@ status: 'todo'
 **Abstract:**
 
 TBD
+ -->
