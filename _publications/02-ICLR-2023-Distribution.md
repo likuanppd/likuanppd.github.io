@@ -6,6 +6,7 @@ excerpt: "Revisiting Graph Adversarial Attack and Defense From a Data Distributi
 date: 2023-01-21
 venue: "ICLR"
 year: 2023
+code: "https://github.com/likuanppd/STRG"
 paperurl: https://openreview.net/pdf?id=dSYoPjM5J_W
 authorlist: "Kuan Li, Yang Liu, Qing He, Xiang Ao"
 status: 'pub'
