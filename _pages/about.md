@@ -14,10 +14,12 @@ redirect_from:
 
 ## About Me
 
-I am a final-year Master candidate at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by Prof. [Xiang Ao](https://aoxaustin.github.io/index.html). I completed my B.E. degree in Electrical engineering and Automation at Beihang University.
+I am currently a PhD student at CSE HKUST under the supervision of Prof. [Minhao Cheng](https://cmhcbb.github.io/). I obtained my M.E. degree from Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) supervised by Prof. [Xiang Ao](https://aoxaustin.github.io/index.html), and completed my B.E. degree in Electrical Engineering and Automation at Beihang University.
+
+$\color{red} {If you have any questions regarding my work or are interested in collaborating with me, please contact me via email.} $
 
 ### Contact information
-Email: likuan20s@ict.ac.cn
+Email: likuan.ppd@gmail.com
 
 Wechat: Kuan_ppd
 
