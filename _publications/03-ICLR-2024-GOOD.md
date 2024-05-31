@@ -6,6 +6,7 @@ excerpt: "Revisiting Graph Adversarial Attack and Defense From a Data Distributi
 date: 2024-01-15
 venue: "ICLR"
 year: 2024
+code: "https://github.com/likuanppd/GOOD-AT"
 paperurl: https://openreview.net/forum?id=DCDT918ZkI&referrer=%5BAuthor%20Console%5D
 authorlist: "Kuan Li, YiWen Chen, Yang Liu, Jin Wang, Qing He, Minhao Cheng, Xiang Ao"
 status: 'pub'
