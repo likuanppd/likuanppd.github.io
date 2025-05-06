@@ -83,10 +83,10 @@ author:
   name             : "Kuan Li / 李宽"
   avatar           : "profile.jpg"
   bio              : "Aggregate the knowledge and distill it into intelligence."
-  location         : "Beijing, China"
+  location         : "Hong Kong, China"
   employer         :
-  googlescholar    : 
-  email            : "likuan20s@ict.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=Bud1l3kAAAAJ&hl=en"
+  email            : "likuan.ppd@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
