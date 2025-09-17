@@ -1,0 +1,16 @@
+---
+title: "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+collection: publications
+permalink: /publications/WebSailor-V2
+excerpt: "https://arxiv.org/abs/2509.13305"
+date: 2025-09-17.
+venue: "arXiv"
+year: 2025
+code: "https://github.com/Alibaba-NLP/DeepResearch/tree/main/WebAgent/WebSailor-V2"
+paperurl: https://arxiv.org/pdf/2507.15061
+authorlist: Kuan Li*, Zhongwang Zhang*, Huifeng Yin*, Rui Ye*, Yida Zhao*, Liwen Zhang*, Litu Ou, Dingchu Zhang, Xixi Wu, Jialong Wu, Xinyu Wang, Zile Qiao, Zhen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou"
+status: 'pub'
+---
+**Abstract:**
+
+To significantly advance the capabilities of open-source web agents, we present WebSailor-V2, a complete post-training pipeline encompassing data construction, Supervised Fine-Tuning (SFT), and Reinforcement Learning (RL). Our methodology features two key innovations: (1) On the data front, we developed SailorFog-QA-2, a novel dataset built from a densely interconnected knowledge graph that introduces a wide variety of uncertainties beyond simple obfuscation, fostering more sophisticated reasoning. (2) For training, we engineered a dual-environment RL framework, combining a high-fidelity simulator for rapid, low-cost algorithmic iteration with a robust, managed real-world environment for stable final policy training, all integrated within a symbiotic data-policy feedback loop. Trained on the Qwen3-30B-A3B model, WebSailor-V2 achieves state-of-the-art results, scoring 35.3 on BrowseComp-EN, 44.1 on BrowseComp-ZH, and 30.6 on Humanity's Last Exam (HLE). Notably, our 30B-A3B MOE agent significantly outperforms all existing open-source agents and surpasses even the 671B DeepSeek-V3.1, demonstrating performance competitive with leading proprietary systems.
