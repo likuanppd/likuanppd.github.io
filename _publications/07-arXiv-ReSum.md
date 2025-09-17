@@ -8,7 +8,7 @@ venue: "arXiv"
 year: 2025
 code: "https://arxiv.org/abs/2509.13313"
 paperurl: https://arxiv.org/pdf/2507.15061
-authorlist: Xixi Wu, Kuan Li, Yida Zhao, Liwen Zhang, Litu Ou, Huifeng Yin, Zhongwang Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Minhao Cheng, Shuai Wang, Hong Cheng, Jingren Zhou"
+authorlist: Xixi Wu*, Kuan Li*, Yida Zhao, Liwen Zhang, Litu Ou, Huifeng Yin, Zhongwang Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Minhao Cheng, Shuai Wang, Hong Cheng, Jingren Zhou"
 status: 'pub'
 ---
 **Abstract:**
