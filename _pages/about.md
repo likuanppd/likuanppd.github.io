@@ -21,8 +21,6 @@ Doing post-training (especially data synthesis and RL) in [Tongyi DeepResearch](
 ### Contact information
 Email: likuan.ppd@gmail.com
 
-Wechat: Kuan_ppd
-
 ## Research interests
 
 My research interests lie in agent learning and machine learning on graphs. Currently, my work focuses on LLM agents, particularly on developing efficient methods to enable LLMs to leverage external tools for solving tasks that they cannot complete autonomously.
