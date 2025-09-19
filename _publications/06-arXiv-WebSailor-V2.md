@@ -8,7 +8,7 @@ venue: "arXiv"
 year: 2025
 code: "https://github.com/Alibaba-NLP/DeepResearch/tree/main/WebAgent/WebSailor-V2"
 paperurl: https://arxiv.org/abs/2509.13305
-authorlist: Kuan Li*, Zhongwang Zhang*, Huifeng Yin*, Rui Ye*, Yida Zhao*, Liwen Zhang*, Litu Ou, Dingchu Zhang, Xixi Wu, Jialong Wu, Xinyu Wang, Zile Qiao, Zhen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou"
+authorlist: Kuan Li*, Zhongwang Zhang*, Huifeng Yin*, Rui Ye*, Yida Zhao*, Liwen Zhang*, Litu Ou, Dingchu Zhang, Xixi Wu, Jialong Wu, Xinyu Wang, Zile Qiao, Zhen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Zhi-Qin John Xu, Shuai Wang, Minhao Cheng, Jingren Zhou"
 status: 'pub'
 ---
 **Abstract:**
