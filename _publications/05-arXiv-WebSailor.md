@@ -8,7 +8,7 @@ venue: "arXiv"
 year: 2025
 code: "https://github.com/Alibaba-NLP/WebAgent"
 paperurl: https://arxiv.org/abs/2507.02592
-authorlist: "Kuan Li*, Zhongwang Zhang*, Huifeng Yin*, Liwen Zhang*, Litu Ou*, Jialong Wu, Wenbiao Yin, Baixuan Li, Zhengwei Tao, Xinyu Wang, Weizhou Shen, Junkai Zhang, Dingchu Zhang, Xixi Wu, Yong Jiang, Ming Yan, Pengjun Xie, Fei Huang, Jingren Zhou"
+authorlist: "Kuan Li*, Zhongwang Zhang*, Huifeng Yin*, Liwen Zhang*, Litu Ou*, Jialong Wu, Wenbiao Yin, Baixuan Li, Zhengwei Tao, Xinyu Wang, Weizhou Shen, Junkai Zhang, Dingchu Zhang, Xixi Wu, Yong Jiang, Ming Yan, Pengjun Xie, Fei Huang, Zhi-Qin John Xu, Shuai Wang, Minhao Cheng, Jingren Zhou"
 status: 'pub'
 ---
 **Abstract:**
